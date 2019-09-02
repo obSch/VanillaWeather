@@ -1,0 +1,17 @@
+{
+  "name": "vanillaweather",
+  "version": "1.0.0",
+  "description": "A weather app using vanilla javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Weather",
+    "app",
+    "vanilla",
+    "javascript"
+  ],
+  "author": "Obakeng Maikano",
+  "license": "ISC"
+}
