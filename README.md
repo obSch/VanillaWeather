@@ -1,4 +1,4 @@
 # VanillaWeather
 A Weather App With Vanilla Javascript
 
-![Screenshot](/screenshot.png?raw=true "Screenshot")
+![Screenshot](/screenshot.PNG?raw=true "Screenshot")
